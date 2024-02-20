@@ -1,0 +1,12 @@
+{
+    "keys": [
+        {
+            "key": "your_api_key_here",
+            "expiration_date": "yyyy-mm-dd"
+        },
+        {
+            "key": "another_api_key_here",
+            "expiration_date": "yyyy-mm-dd"
+        }
+    ]
+}
